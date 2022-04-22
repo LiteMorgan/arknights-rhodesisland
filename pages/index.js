@@ -26,8 +26,6 @@ const HomeView = () => {
     fetchData();
   }, []);
 
-  console.log(characters);
-
   return (
     <div>
       <Head>
