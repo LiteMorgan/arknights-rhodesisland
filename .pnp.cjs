@@ -38,6 +38,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-config-next", "virtual:329548ce1e49c6b1a92a62e53b80fd0bc2c07413ae67ff442681cb3d8b10ef482f1f8250ed2ba191a53e10aeac0eb54656b6b81b375f96ebe98f70d57d97b530#npm:12.1.5"],\
             ["next", "virtual:329548ce1e49c6b1a92a62e53b80fd0bc2c07413ae67ff442681cb3d8b10ef482f1f8250ed2ba191a53e10aeac0eb54656b6b81b375f96ebe98f70d57d97b530#npm:12.1.5"],\
             ["postcss", "npm:8.4.12"],\
+            ["prettier", "npm:2.6.2"],\
+            ["prettier-plugin-tailwindcss", "virtual:329548ce1e49c6b1a92a62e53b80fd0bc2c07413ae67ff442681cb3d8b10ef482f1f8250ed2ba191a53e10aeac0eb54656b6b81b375f96ebe98f70d57d97b530#npm:0.1.10"],\
             ["react", "npm:18.0.0"],\
             ["react-dom", "virtual:329548ce1e49c6b1a92a62e53b80fd0bc2c07413ae67ff442681cb3d8b10ef482f1f8250ed2ba191a53e10aeac0eb54656b6b81b375f96ebe98f70d57d97b530#npm:18.0.0"],\
             ["tailwindcss", "virtual:329548ce1e49c6b1a92a62e53b80fd0bc2c07413ae67ff442681cb3d8b10ef482f1f8250ed2ba191a53e10aeac0eb54656b6b81b375f96ebe98f70d57d97b530#npm:3.0.24"]\
@@ -614,6 +616,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-config-next", "virtual:329548ce1e49c6b1a92a62e53b80fd0bc2c07413ae67ff442681cb3d8b10ef482f1f8250ed2ba191a53e10aeac0eb54656b6b81b375f96ebe98f70d57d97b530#npm:12.1.5"],\
             ["next", "virtual:329548ce1e49c6b1a92a62e53b80fd0bc2c07413ae67ff442681cb3d8b10ef482f1f8250ed2ba191a53e10aeac0eb54656b6b81b375f96ebe98f70d57d97b530#npm:12.1.5"],\
             ["postcss", "npm:8.4.12"],\
+            ["prettier", "npm:2.6.2"],\
+            ["prettier-plugin-tailwindcss", "virtual:329548ce1e49c6b1a92a62e53b80fd0bc2c07413ae67ff442681cb3d8b10ef482f1f8250ed2ba191a53e10aeac0eb54656b6b81b375f96ebe98f70d57d97b530#npm:0.1.10"],\
             ["react", "npm:18.0.0"],\
             ["react-dom", "virtual:329548ce1e49c6b1a92a62e53b80fd0bc2c07413ae67ff442681cb3d8b10ef482f1f8250ed2ba191a53e10aeac0eb54656b6b81b375f96ebe98f70d57d97b530#npm:18.0.0"],\
             ["tailwindcss", "virtual:329548ce1e49c6b1a92a62e53b80fd0bc2c07413ae67ff442681cb3d8b10ef482f1f8250ed2ba191a53e10aeac0eb54656b6b81b375f96ebe98f70d57d97b530#npm:3.0.24"]\
@@ -3191,6 +3195,37 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/prelude-ls-npm-1.2.1-3e4d272a55-cd192ec0d0.zip/node_modules/prelude-ls/",\
           "packageDependencies": [\
             ["prelude-ls", "npm:1.2.1"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["prettier", [\
+        ["npm:2.6.2", {\
+          "packageLocation": "./.yarn/cache/prettier-npm-2.6.2-05918420da-48d08dde8e.zip/node_modules/prettier/",\
+          "packageDependencies": [\
+            ["prettier", "npm:2.6.2"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["prettier-plugin-tailwindcss", [\
+        ["npm:0.1.10", {\
+          "packageLocation": "./.yarn/cache/prettier-plugin-tailwindcss-npm-0.1.10-6914fbc80c-465a7e02bd.zip/node_modules/prettier-plugin-tailwindcss/",\
+          "packageDependencies": [\
+            ["prettier-plugin-tailwindcss", "npm:0.1.10"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
+        ["virtual:329548ce1e49c6b1a92a62e53b80fd0bc2c07413ae67ff442681cb3d8b10ef482f1f8250ed2ba191a53e10aeac0eb54656b6b81b375f96ebe98f70d57d97b530#npm:0.1.10", {\
+          "packageLocation": "./.yarn/__virtual__/prettier-plugin-tailwindcss-virtual-dab63611f2/0/cache/prettier-plugin-tailwindcss-npm-0.1.10-6914fbc80c-465a7e02bd.zip/node_modules/prettier-plugin-tailwindcss/",\
+          "packageDependencies": [\
+            ["prettier-plugin-tailwindcss", "virtual:329548ce1e49c6b1a92a62e53b80fd0bc2c07413ae67ff442681cb3d8b10ef482f1f8250ed2ba191a53e10aeac0eb54656b6b81b375f96ebe98f70d57d97b530#npm:0.1.10"],\
+            ["@types/prettier", null],\
+            ["prettier", "npm:2.6.2"]\
+          ],\
+          "packagePeers": [\
+            "@types/prettier",\
+            "prettier"\
           ],\
           "linkType": "HARD"\
         }]\
