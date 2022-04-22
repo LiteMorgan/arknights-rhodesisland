@@ -92,6 +92,7 @@ const HomeView = ({ operators }) => {
       </Head>
 
       <main className="relative grid grid-cols-[16rem_1fr] w-full gap-8">
+        <div />
         {/* <div className="sticky block my-4 top-4 h-[calc(100vh-2rem)]">
           <input
             className="bg-slate-700 w-full py-2 px-4 box-border rounded-md"
