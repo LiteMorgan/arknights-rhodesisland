@@ -457,9 +457,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"arknights-prts@workspace:.":
+"arknights-rhodesisland@workspace:.":
   version: 0.0.0-use.local
-  resolution: "arknights-prts@workspace:."
+  resolution: "arknights-rhodesisland@workspace:."
   dependencies:
     autoprefixer: ^10.4.4
     eslint: 8.13.0
