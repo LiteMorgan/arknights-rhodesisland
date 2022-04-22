@@ -139,7 +139,7 @@ const CharacterListItem = ({ data, savedData = [] }) => {
 
   return (
     <li className="my-4 box-border w-full overflow-hidden bg-slate-800 rounded-md">
-      <div className="grid grid-cols-[6em_1fr_8rem_repeat(8,_6rem)] items-center gap-2 pr-8">
+      <div className="grid grid-cols-[6em_1fr_8rem_repeat(8,_5rem)] items-center gap-2 pr-8">
         <OpAvatar
           id={data.id}
           profession={data.profession.toLowerCase()}
@@ -204,7 +204,7 @@ const CharacterListItem = ({ data, savedData = [] }) => {
             label="Level"
             value={level}
             minValue={1}
-            maxValue={data.phases[elite]?.maxLevel}
+            maxValue={data.phases[elite] || 0}
             onChange={(value) => setLevel(value)}
             disabledRule={!recruited}
           />
@@ -250,7 +250,7 @@ const CharacterListItem = ({ data, savedData = [] }) => {
           {data.skills[0] && (
             <InputField
               id={`skill-1-${data.displayNumber}`}
-              label={data.skills[0].name}
+              label={data.skills[0]}
               value={skill1}
               maxValue={3}
               onChange={(value) => setSkill1(value)}
@@ -263,7 +263,7 @@ const CharacterListItem = ({ data, savedData = [] }) => {
           {data.skills[1] && (
             <InputField
               id={`skill-2-${data.displayNumber}`}
-              label={data.skills[1].name}
+              label={data.skills[1]}
               value={skill2}
               maxValue={3}
               onChange={(value) => setSkill2(value)}
@@ -276,7 +276,7 @@ const CharacterListItem = ({ data, savedData = [] }) => {
           {data.skills[2] && (
             <InputField
               id={`skill-3-${data.displayNumber}`}
-              label={data.skills[2].name}
+              label={data.skills[2]}
               value={skill3}
               maxValue={3}
               onChange={(value) => setSkill3(value)}
@@ -284,107 +284,6 @@ const CharacterListItem = ({ data, savedData = [] }) => {
             />
           )}
         </div>
-
-        {/* <div className="relative flex items-center justify-center">
-          <span className=" w-4/6 h-20 bg-gray-900 block absolute mx-auto z-0" />
-          <div
-            className="w-16 h-16 block cursor-pointer z-10"
-            onClick={() => {
-              if (elite === data.phases.length - 1) return;
-              setElite(elite + 1);
-            }}
-            onContextMenu={(e) => {
-              e.preventDefault();
-              if (elite === 0) return;
-              setElite(elite === 0 ? null : elite - 1);
-            }}
-          >
-            <Icon name={`ui-elite-${elite}`} fill="#ffffff" />
-          </div>
-        </div> */}
-
-        {/* <div className="relative flex items-center justify-center">
-          <span className="w-16 h-16 bg-gray-900 block absolute mx-auto z-0" />
-          <div
-            className="absolute block w-20 h-20 cursor-pointer"
-            onClick={() => {
-              if (potential === 5) return;
-              setPotential(potential === 5 ? null : potential + 1);
-            }}
-            onContextMenu={(e) => {
-              e.preventDefault();
-              if (potential === 0) return;
-              setPotential(potential === 0 ? null : potential - 1);
-            }}
-          >
-            <svg
-              className="potential-icon absolute block w-full h-full"
-              viewBox="0 0 256 256"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path
-                id="backdrop"
-                fill={potential === 5 ? "#3ea9f4" : "#808080"}
-                d="M101.398 112.128l11.303 34.787h36.521l11.244-34.605-29.659-21.55-29.41 21.368zm-7.322-22.535l17.561-12.76-28.415-20.645 10.854 33.405zm-41.092 57.71l-10.297 7.48L1 157.217l73.906-53.696-2.648-8.15 10.364-39.617-10.815-7.858L56.612 9l74.195 53.906 7.293-5.299 40.916-2.387 4.154-12.786 32.296-26.47-28.508 87.738 6.754 4.907 14.965 38.306h13.168L257 169.451h-91.405l-2.496 7.683-32.045 26.265 4.14 12.743-10.569 40.399-28.297-87.09h-8.793l-34.55-22.148zm.533-.388h35.489l-6.778-20.86-28.711 20.86zm96.46-70.082l17.812 12.941 11.008-33.88-28.82 20.94zm22.94 70.082h35.18l-28.461-20.678-6.719 20.678zm-41.955 56.201l10.938-33.665h-21.877l10.939 33.665z"
-                fillRule="nonzero"
-              />
-              <path
-                id="potential0"
-                fill="#ffffff"
-                d="M51.684 137.432h168.87l35.031 22.456H86.715z"
-                fillRule="nonzero"
-              />
-              <path
-                id="potential1"
-                fill={
-                  potential === 1
-                    ? "#3ea9f4"
-                    : potential > 1
-                    ? "#fff"
-                    : "transparent"
-                }
-                d="M.484 147.696l136.618-99.26 41.541-2.423-136.619 99.26z"
-                fillRule="nonzero"
-              />
-              <path
-                id="potential2"
-                fill={
-                  potential === 2
-                    ? "#3ea9f4"
-                    : potential > 2
-                    ? "#fff"
-                    : "transparent"
-                }
-                d="M129.831 193.922l52.184-160.605 32.182-26.378-52.184 160.605z"
-                fillRule="nonzero"
-              />
-              <path
-                id="potential3"
-                fill={
-                  potential === 3
-                    ? "#3ea9f4"
-                    : potential > 3
-                    ? "#fff"
-                    : "transparent"
-                }
-                d="M82.023 45.81l52.184 160.606-10.532 40.256L71.491 86.067z"
-                fillRule="nonzero"
-              />
-              <path
-                id="potential4"
-                fill={
-                  potential === 4
-                    ? "#3ea9f4"
-                    : potential > 4
-                    ? "#fff"
-                    : "transparent"
-                }
-                d="M55.9 0l136.62 99.26 15.141 38.758-136.619-99.26z"
-                fillRule="nonzero"
-              />
-            </svg>
-          </div>
-        </div> */}
       </div>
     </li>
   );
