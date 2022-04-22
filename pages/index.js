@@ -38,39 +38,39 @@ export const getStaticProps = async () => {
 const HomeView = ({ operators }) => {
   const [savedData, setSavedData] = useState({});
 
-  const handleSearch = (ev) => {
-    const VALUE = ev.target.value.toLowerCase();
+  // const handleSearch = (ev) => {
+  //   const VALUE = ev.target.value.toLowerCase();
 
-    if (VALUE === "") return setCharacters(defaultCharacters);
+  //   if (VALUE === "") return setCharacters(defaultCharacters);
 
-    const characterData = defaultCharacters.slice(0);
-    const results = characterData.filter((array) =>
-      array.name.toLowerCase().includes(VALUE)
-    );
+  //   const characterData = defaultCharacters.slice(0);
+  //   const results = characterData.filter((array) =>
+  //     array.name.toLowerCase().includes(VALUE)
+  //   );
 
-    setCharacters(results);
-  };
+  //   setCharacters(results);
+  // };
 
-  const handleFilterRecruited = (ev) => {
-    const VALUE = ev.target.value;
-    if (VALUE === "display-all") return setCharacters(defaultCharacters);
+  // const handleFilterRecruited = (ev) => {
+  //   const VALUE = ev.target.value;
+  //   if (VALUE === "display-all") return setCharacters(defaultCharacters);
 
-    const characterData = defaultCharacters.slice(0);
-    let results = [];
-    if (VALUE === "display-recruited") {
-      results = characterData.filter((array) =>
-        Object.keys(savedData).includes(array.id)
-      );
-    }
+  //   const characterData = defaultCharacters.slice(0);
+  //   let results = [];
+  //   if (VALUE === "display-recruited") {
+  //     results = characterData.filter((array) =>
+  //       Object.keys(savedData).includes(array.id)
+  //     );
+  //   }
 
-    if (VALUE === "display-missing") {
-      results = characterData.filter(
-        (array) => !Object.keys(savedData).includes(array.id)
-      );
-    }
+  //   if (VALUE === "display-missing") {
+  //     results = characterData.filter(
+  //       (array) => !Object.keys(savedData).includes(array.id)
+  //     );
+  //   }
 
-    setCharacters(results);
-  };
+  //   setCharacters(results);
+  // };
 
   useEffect(() => {
     let persistedCharacterData = window.localStorage.getItem("characters");
@@ -92,7 +92,7 @@ const HomeView = ({ operators }) => {
       </Head>
 
       <main className="relative grid grid-cols-[16rem_1fr] w-full gap-8">
-        <div className="sticky block my-4 top-4 h-[calc(100vh-2rem)]">
+        {/* <div className="sticky block my-4 top-4 h-[calc(100vh-2rem)]">
           <input
             className="bg-slate-700 w-full py-2 px-4 box-border rounded-md"
             type="text"
@@ -126,7 +126,7 @@ const HomeView = ({ operators }) => {
               <label htmlFor="display-missing">Show missing</label>
             </form>
           </div>
-        </div>
+        </div> */}
 
         <ul className="w-full">
           {operators.map((operator) => (
