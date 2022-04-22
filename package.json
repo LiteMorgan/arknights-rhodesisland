@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "update-game-data": "git submodule update --init --recursive --remote && node ./scripts/mutateGameData.mjs"
   },
   "dependencies": {
     "lodash": "^4.17.21",
