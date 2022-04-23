@@ -11,6 +11,12 @@
   }
 }
 
+@layer components {
+  .professionFilter:checked + label {
+    @apply bg-blue-700;
+  }
+}
+
 html,
 body {
   padding: 0;
