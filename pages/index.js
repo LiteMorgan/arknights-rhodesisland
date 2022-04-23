@@ -227,9 +227,30 @@ const HomeView = ({ operators, sortOperators: sortValues }) => {
     <div>
       <Head>
         <title>Rhodes Island PRTS</title>
-        <meta name="title" content="Rhodes Island PRTS" />
-        <meta property="og:title" content="Rhodes Island PRTS" />
-        <meta property="twitter:title" content="Rhodes Island PRTS" />
+        <meta
+          name="title"
+          content="ALPHA / Operator Progress - Rhodes Island PRTS"
+        />
+        <meta
+          property="og:title"
+          content="ALPHA / Operator Progress - Rhodes Island PRTS"
+        />
+        <meta
+          property="twitter:title"
+          content="ALPHA / Operator Progress - Rhodes Island PRTS"
+        />
+        <meta
+          name="description"
+          content="Rhodes Island PRTS is a communty resource for Arknights players. Keep track of your recruited operators and their progress!"
+        />
+        <meta
+          property="og:description"
+          content="Rhodes Island PRTS is a communty resource for Arknights players. Keep track of your recruited operators and their progress!"
+        />
+        <meta
+          property="twitter:description"
+          content="Rhodes Island PRTS is a communty resource for Arknights players. Keep track of your recruited operators and their progress!"
+        />
       </Head>
 
       <main className="relative grid grid-cols-[16rem_1fr] w-full gap-8">
