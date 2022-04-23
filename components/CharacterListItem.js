@@ -148,12 +148,7 @@ const CharacterListItem = ({ data, savedData = [] }) => {
         />
 
         <div>
-          <span className="block text-xs uppercase text-gray-400 leading-none">
-            {data.displayNumber} /{" "}
-            {data.id.replace("char_", "").replace(`_${data.handle}`, "")} /{" "}
-            {data.handle}
-          </span>
-          <span className="block text-2xl font-bold leading-6 mt-1 mb-2 text-gray-50">
+          <span className="block text-2xl font-bold leading-6 mb-2 text-gray-50">
             {data.name}
           </span>
           <div className="flex flex-row w-full text-stars">
