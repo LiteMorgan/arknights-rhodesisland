@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import Head from "next/head";
-import { CharacterListItem } from "../components";
+import { CharacterListItem, Icon } from "../components";
 
 const FILTER_LIST = {
   professions: [
@@ -88,7 +88,11 @@ export const getStaticProps = async () => {
 const HomeView = ({ operators, sortOperators: sortValues }) => {
   const [savedData, setSavedData] = useState({});
   const [filterData, setFilterData] = useState(operators);
-  const [filterList, setFilterList] = useState(FILTER_LIST);
+  const [filterList, setFilterList] = useState({
+    ...FILTER_LIST,
+    hideCn: true,
+    search: "",
+  });
   const [sortedOperators, setSortedOperators] = useState([]);
 
   const PROFESSION_SORT_ORDER = [
@@ -158,7 +162,10 @@ const HomeView = ({ operators, sortOperators: sortValues }) => {
     setSortedOperators(sortedData);
   };
 
-  const handleDataFilter = (ev) => {
+  const handleDataFilter = (ev, target) => {
+    if (target === "hideCn")
+      return setFilterList((h) => ({ ...h, hideCn: ev.target.checked }));
+
     const { name: NAME, checked: CHECKED } = ev.target;
     const newFilter = [...filterList["professions"]];
     const index = newFilter.findIndex((h) => h.name === NAME);
@@ -171,6 +178,7 @@ const HomeView = ({ operators, sortOperators: sortValues }) => {
   useEffect(() => {
     const CLONE_DATA = operators.slice(0);
     let professions = [];
+
     for (const key in filterList.professions) {
       let item = filterList.professions[key];
       let index = professions.findIndex((h) => h === item.name);
@@ -186,28 +194,29 @@ const HomeView = ({ operators, sortOperators: sortValues }) => {
       professions.splice(index, 1);
     }
 
-    if (professions.length === 0) return setFilterData(CLONE_DATA);
-
     const filteredOperators = CLONE_DATA.filter((op) => {
-      if (professions.length === 0) return;
+      // Filter by profession
+      if (professions.length === 0) return op;
       return professions.includes(op.profession);
-    });
+    })
+      .filter((op) => {
+        // Filter by CN Exclusive
+        if (filterList.hideCn) return !op.cnExclusive;
+        return op;
+      })
+      .filter((op) => {
+        // Filter by name
+        if (filterList.search.length === 0) return op;
+        return op.name.toLowerCase().includes(filterList.search);
+      });
 
     setFilterData(filteredOperators);
   }, [filterList]);
 
-  // const handleSearch = (ev) => {
-  //   const VALUE = ev.target.value.toLowerCase();
-
-  //   if (VALUE === "") return setCharacters(defaultCharacters);
-
-  //   const characterData = defaultCharacters.slice(0);
-  //   const results = characterData.filter((array) =>
-  //     array.name.toLowerCase().includes(VALUE)
-  //   );
-
-  //   setCharacters(results);
-  // };
+  const handleSearch = (ev) => {
+    const VALUE = ev.target.value.toLowerCase();
+    setFilterList((h) => ({ ...h, search: VALUE }));
+  };
 
   useEffect(() => {
     let persistedCharacterData = window.localStorage.getItem("characters");
@@ -255,16 +264,18 @@ const HomeView = ({ operators, sortOperators: sortValues }) => {
 
       <main className="relative grid grid-cols-[16rem_1fr] w-full gap-8">
         <div className="sticky block my-4 top-4 h-[calc(100vh-2rem)]">
-          {/* <input
-            className="bg-slate-700 w-full py-2 px-4 box-border rounded-md"
+          <input
+            className="bg-slate-700 w-full mb-8 block py-2 px-4 box-border rounded-md"
             type="text"
-            placeholder="Search"
+            placeholder="Search operators"
             onChange={(ev) => handleSearch(ev)}
-          /> */}
+          />
 
           <div className="block my-8">
             <form onChange={(ev) => handleDataSort(ev.target.value)}>
-              <legend>Sort</legend>
+              <legend className="font-bold text-sm uppercase text-slate-400 mb-1">
+                Sort
+              </legend>
               <div>
                 <input
                   type="radio"
@@ -297,22 +308,54 @@ const HomeView = ({ operators, sortOperators: sortValues }) => {
           </div>
 
           <div className="block my-8">
-            <form>
-              <legend>Filter</legend>
-              {filterList.professions.map((profession) => (
-                <div key={profession.label}>
-                  <input
-                    type="checkbox"
-                    name={profession.name}
-                    id={`professionFilter${profession.label}`}
-                    checked={profession.checked}
-                    onChange={(ev) => handleDataFilter(ev)}
-                  />
-                  <label htmlFor={`professionFilter${profession.label}`}>
-                    {profession.label}
-                  </label>
-                </div>
-              ))}
+            <form className="display-">
+              <legend className="font-bold text-sm uppercase text-slate-400 mb-1">
+                Profession
+              </legend>
+              <div className="grid grid-cols-4 grid-rows-2 overflow-hidden rounded-md gap-[1px]">
+                {filterList.professions.map((profession) => (
+                  <div
+                    className="relative w-full h-full block"
+                    key={profession.label}
+                  >
+                    <input
+                      type="checkbox"
+                      className="appearance-none absolute top-0 left-0 h-full w-full opacity-0 professionFilter cursor-pointer"
+                      name={profession.name}
+                      id={`professionFilter${profession.label}`}
+                      checked={profession.checked}
+                      onChange={(ev) => handleDataFilter(ev)}
+                    />
+                    <label
+                      className="block w-full h-full p-2 box-border bg-[#0e0e0e] transition-colors"
+                      htmlFor={`professionFilter${profession.label}`}
+                    >
+                      <Icon
+                        name={`ui-${profession.name.toLowerCase()}`}
+                        fill="#fff"
+                      />
+                      <span className="sr-only">{profession.label}</span>
+                    </label>
+                  </div>
+                ))}
+              </div>
+            </form>
+          </div>
+
+          <div className="block my-8">
+            <form onChange={(ev) => handleDataFilter(ev, "hideCn")}>
+              <legend className="font-bold text-sm uppercase text-slate-400 mb-1">
+                Toggle CN Operators
+              </legend>
+              <div>
+                <input
+                  type="checkbox"
+                  name="hideCnOps"
+                  id="hideCnOps"
+                  defaultChecked
+                />
+                <label htmlFor="hideCnOps">Hide CN Operators</label>
+              </div>
             </form>
           </div>
 
@@ -358,6 +401,9 @@ const HomeView = ({ operators, sortOperators: sortValues }) => {
               />
             );
           })}
+          {filterData.length === 0 && (
+            <p>No operators met your filter criteria</p>
+          )}
         </ul>
       </main>
     </div>
