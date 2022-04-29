@@ -1,0 +1,2786 @@
+[
+  {
+    "id": "char_285_medic2",
+    "name": "Lancet-2",
+    "profession": "MEDIC",
+    "skills": [],
+    "rarity": 1,
+    "maxElite": 0,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_286_cast3",
+    "name": "Castle-3",
+    "profession": "WARRIOR",
+    "skills": [],
+    "rarity": 1,
+    "maxElite": 0,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_376_therex",
+    "name": "THRM-EX",
+    "profession": "SPECIAL",
+    "skills": [],
+    "rarity": 1,
+    "maxElite": 0,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_4000_jnight",
+    "name": "'Justice Knight'",
+    "profession": "SNIPER",
+    "skills": [],
+    "rarity": 1,
+    "maxElite": 0,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_502_nblade",
+    "name": "Yato",
+    "profession": "PIONEER",
+    "skills": [],
+    "rarity": 2,
+    "maxElite": 0,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_500_noirc",
+    "name": "Noir Corne",
+    "profession": "TANK",
+    "skills": [],
+    "rarity": 2,
+    "maxElite": 0,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_503_rang",
+    "name": "Rangers",
+    "profession": "SNIPER",
+    "skills": [],
+    "rarity": 2,
+    "maxElite": 0,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_501_durin",
+    "name": "Durin",
+    "profession": "CASTER",
+    "skills": [],
+    "rarity": 2,
+    "maxElite": 0,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_009_12fce",
+    "name": "12F",
+    "profession": "CASTER",
+    "skills": [],
+    "rarity": 2,
+    "maxElite": 0,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_123_fang",
+    "name": "Fang",
+    "profession": "PIONEER",
+    "skills": [
+      "Charge α"
+    ],
+    "rarity": 3,
+    "maxElite": 1,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_240_wyvern",
+    "name": "Vanilla",
+    "profession": "PIONEER",
+    "skills": [
+      "Command - Reinforcement"
+    ],
+    "rarity": 3,
+    "maxElite": 1,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_192_falco",
+    "name": "Plume",
+    "profession": "PIONEER",
+    "skills": [
+      "Swift Strike α"
+    ],
+    "rarity": 3,
+    "maxElite": 1,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_208_melan",
+    "name": "Melantha",
+    "profession": "WARRIOR",
+    "skills": [
+      "ATK Up α"
+    ],
+    "rarity": 3,
+    "maxElite": 1,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_281_popka",
+    "name": "Popukar",
+    "profession": "WARRIOR",
+    "skills": [
+      "ATK Up α"
+    ],
+    "rarity": 3,
+    "maxElite": 1,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_209_ardign",
+    "name": "Cardigan",
+    "profession": "TANK",
+    "skills": [
+      "Regeneration α"
+    ],
+    "rarity": 3,
+    "maxElite": 1,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_122_beagle",
+    "name": "Beagle",
+    "profession": "TANK",
+    "skills": [
+      "DEF Up α"
+    ],
+    "rarity": 3,
+    "maxElite": 1,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_284_spot",
+    "name": "Spot",
+    "profession": "TANK",
+    "skills": [
+      "Secondary Healing Mode"
+    ],
+    "rarity": 3,
+    "maxElite": 1,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_124_kroos",
+    "name": "Kroos",
+    "profession": "SNIPER",
+    "skills": [
+      "Double Tap - Auto"
+    ],
+    "rarity": 3,
+    "maxElite": 1,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_211_adnach",
+    "name": "Adnachiel",
+    "profession": "SNIPER",
+    "skills": [
+      "ATK Up α"
+    ],
+    "rarity": 3,
+    "maxElite": 1,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_121_lava",
+    "name": "Lava",
+    "profession": "CASTER",
+    "skills": [
+      "Tactical Chant α"
+    ],
+    "rarity": 3,
+    "maxElite": 1,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_120_hibisc",
+    "name": "Hibiscus",
+    "profession": "MEDIC",
+    "skills": [
+      "Healing Up α"
+    ],
+    "rarity": 3,
+    "maxElite": 1,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_212_ansel",
+    "name": "Ansel",
+    "profession": "MEDIC",
+    "skills": [
+      "Healing Range Up"
+    ],
+    "rarity": 3,
+    "maxElite": 1,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_210_stward",
+    "name": "Steward",
+    "profession": "CASTER",
+    "skills": [
+      "Power Strike α"
+    ],
+    "rarity": 3,
+    "maxElite": 1,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_278_orchid",
+    "name": "Orchid",
+    "profession": "SUPPORT",
+    "skills": [
+      "Swift Strike α"
+    ],
+    "rarity": 3,
+    "maxElite": 1,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_141_nights",
+    "name": "Haze",
+    "profession": "CASTER",
+    "skills": [
+      "ATK Up β",
+      "Crimson Eyes"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_109_fmout",
+    "name": "Gitano",
+    "profession": "CASTER",
+    "skills": [
+      "Tactical Chant β",
+      "Destiny"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_253_greyy",
+    "name": "Greyy",
+    "profession": "CASTER",
+    "skills": [
+      "Tactical Chant β",
+      "Electrostatic Discharge"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_328_cammou",
+    "name": "Click",
+    "profession": "CASTER",
+    "skills": [
+      "ATK Up β",
+      "Synchronized Attack"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_469_indigo",
+    "name": "Indigo",
+    "profession": "CASTER",
+    "skills": [
+      "Lighthouse Guardian",
+      "Labyrinth of Light"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_4004_pudd",
+    "name": "Pudding",
+    "profession": "CASTER",
+    "skills": [
+      "Tactical Chant β",
+      "Diffusion Current"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_235_jesica",
+    "name": "Jessica",
+    "profession": "SNIPER",
+    "skills": [
+      "Power Strike β",
+      "Smokescreen"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_126_shotst",
+    "name": "Meteor",
+    "profession": "SNIPER",
+    "skills": [
+      "Armor Breaker",
+      "Armor Breaker - Spread"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_190_clour",
+    "name": "Vermeil",
+    "profession": "SNIPER",
+    "skills": [
+      "ATK Up β",
+      "Double Shot"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_133_mm",
+    "name": "May",
+    "profession": "SNIPER",
+    "skills": [
+      "Paralyzing Shell",
+      "Binding Shock"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_118_yuki",
+    "name": "Shirayuki",
+    "profession": "SNIPER",
+    "skills": [
+      "Shuriken",
+      "Fatal Shuriken"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_440_pinecn",
+    "name": "Pinecone",
+    "profession": "SNIPER",
+    "skills": [
+      "RMA Spikes",
+      "Electrical Overcharge"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_302_glaze",
+    "name": "Ambriel",
+    "profession": "SNIPER",
+    "skills": [
+      "Snaring Shell",
+      "Radar Sweep"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_366_acdrop",
+    "name": "Aciddrop",
+    "profession": "SNIPER",
+    "skills": [
+      "Fancy Shot",
+      "Trigger Time"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_198_blackd",
+    "name": "Courier",
+    "profession": "PIONEER",
+    "skills": [
+      "Charge β",
+      "Command - Defense"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_149_scave",
+    "name": "Scavenger",
+    "profession": "PIONEER",
+    "skills": [
+      "Charge β",
+      "Command - Attack"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_290_vigna",
+    "name": "Vigna",
+    "profession": "PIONEER",
+    "skills": [
+      "ATK Up β",
+      "Hammer-On"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_151_myrtle",
+    "name": "Myrtle",
+    "profession": "PIONEER",
+    "skills": [
+      "Support β",
+      "Healing Wings"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_452_bstalk",
+    "name": "Beanstalk",
+    "profession": "PIONEER",
+    "skills": [
+      "Sentinel Command",
+      "'Everyone Together!'"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_130_doberm",
+    "name": "Dobermann",
+    "profession": "WARRIOR",
+    "skills": [
+      "Power Strike β",
+      "Spur"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_289_gyuki",
+    "name": "Matoimaru",
+    "profession": "WARRIOR",
+    "skills": [
+      "Regeneration β",
+      "Demonic Power"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_159_peacok",
+    "name": "Conviction",
+    "profession": "WARRIOR",
+    "skills": [
+      "Judgment",
+      "Genesis"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 1
+  },
+  {
+    "id": "char_193_frostl",
+    "name": "Frostleaf",
+    "profession": "WARRIOR",
+    "skills": [
+      "Frost Tomahawk",
+      "Ice Tomahawk"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_127_estell",
+    "name": "Estelle",
+    "profession": "WARRIOR",
+    "skills": [
+      "ATK Up β",
+      "Sacrificial Strike"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_185_frncat",
+    "name": "Mousse",
+    "profession": "WARRIOR",
+    "skills": [
+      "Scratch",
+      "Fury"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_301_cutter",
+    "name": "Cutter",
+    "profession": "WARRIOR",
+    "skills": [
+      "Redshift",
+      "Crimson Crescent"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_337_utage",
+    "name": "Utage",
+    "profession": "WARRIOR",
+    "skills": [
+      "Space Out",
+      "Descending Strike - Earth Splitter"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_271_spikes",
+    "name": "Arene",
+    "profession": "WARRIOR",
+    "skills": [
+      "Just Kidding",
+      "Deadly Prank"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_237_gravel",
+    "name": "Gravel",
+    "profession": "SPECIAL",
+    "skills": [
+      "Shadow Assault",
+      "Rat Swarm"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_272_strong",
+    "name": "Jaye",
+    "profession": "SPECIAL",
+    "skills": [
+      "Shell Splitter",
+      "Sashimi Platter"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_236_rope",
+    "name": "Rope",
+    "profession": "SPECIAL",
+    "skills": [
+      "Hook Shot",
+      "Double Hook"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_117_myrrh",
+    "name": "Myrrh",
+    "profession": "MEDIC",
+    "skills": [
+      "Dual Healing",
+      "Medic Field"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_187_ccheal",
+    "name": "Gavial",
+    "profession": "MEDIC",
+    "skills": [
+      "Vitality Restoration",
+      "Vitality Restoration - Wide Range"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_298_susuro",
+    "name": "Sussurro",
+    "profession": "MEDIC",
+    "skills": [
+      "Healing Up β",
+      "Deep Healing"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_181_flower",
+    "name": "Perfumer",
+    "profession": "MEDIC",
+    "skills": [
+      "Healing Up β",
+      "Fine Blending"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_385_finlpp",
+    "name": "Purestream",
+    "profession": "MEDIC",
+    "skills": [
+      "Healing Waves",
+      "Lifespring"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_199_yak",
+    "name": "Matterhorn",
+    "profession": "TANK",
+    "skills": [
+      "Stamina Enhancement",
+      "Cold Resistance"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_150_snakek",
+    "name": "Cuora",
+    "profession": "TANK",
+    "skills": [
+      "DEF Up β",
+      "Shell Defense"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_381_bubble",
+    "name": "Bubble",
+    "profession": "TANK",
+    "skills": [
+      "DEF Up β",
+      "'Beaten Up'"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_196_sunbr",
+    "name": "Gummy",
+    "profession": "TANK",
+    "skills": [
+      "Provisions",
+      "Cooking"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_260_durnar",
+    "name": "Dur-nar",
+    "profession": "TANK",
+    "skills": [
+      "ATK Up β",
+      "Shielded Counterattack"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_110_deepcl",
+    "name": "Deepcolor",
+    "profession": "SUPPORT",
+    "skills": [
+      "Shadow Tentacle",
+      "Visual Trap"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_183_skgoat",
+    "name": "Earthspirit",
+    "profession": "SUPPORT",
+    "skills": [
+      "ATK Up β",
+      "Quicksand Conversion"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_258_podego",
+    "name": "Podenco",
+    "profession": "SUPPORT",
+    "skills": [
+      "Aromatherapy",
+      "Spread Spores"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_484_robrta",
+    "name": "Roberta",
+    "profession": "SUPPORT",
+    "skills": [
+      "Siracusan-Style Makeup",
+      "Full Auto Modeler"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_355_ethan",
+    "name": "Ethan",
+    "profession": "SPECIAL",
+    "skills": [
+      "Fancy Maneuvers",
+      "Suspended Cross"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_277_sqrrel",
+    "name": "Shaw",
+    "profession": "SPECIAL",
+    "skills": [
+      "Steam Pump",
+      "High-Pressure Water Cannon"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_128_plosis",
+    "name": "Ptilopsis",
+    "profession": "MEDIC",
+    "skills": [
+      "Healing Up γ",
+      "Enkephalin"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_275_breeze",
+    "name": "Breeze",
+    "profession": "MEDIC",
+    "skills": [
+      "Cluster Therapy",
+      "Widespread Therapy"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_115_headbr",
+    "name": "Zima",
+    "profession": "PIONEER",
+    "skills": [
+      "Charge γ",
+      "Ursus's Roar"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_102_texas",
+    "name": "Texas",
+    "profession": "PIONEER",
+    "skills": [
+      "Charge γ",
+      "Sword Rain"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_349_chiave",
+    "name": "Chiave",
+    "profession": "PIONEER",
+    "skills": [
+      "Charge γ",
+      "Blazing Wire Stripper"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_261_sddrag",
+    "name": "Reed",
+    "profession": "PIONEER",
+    "skills": [
+      "Swift Strike γ",
+      "Soul Spark"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_496_wildmn",
+    "name": "Wild Mane",
+    "profession": "PIONEER",
+    "skills": [
+      "Stabbing Lance",
+      "Lance Charge"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_401_elysm",
+    "name": "Elysium",
+    "profession": "PIONEER",
+    "skills": [
+      "Support γ",
+      "Monitor"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_308_swire",
+    "name": "Swire",
+    "profession": "WARRIOR",
+    "skills": [
+      "Command and Dispatch",
+      "Cooperative Combat"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_265_sophia",
+    "name": "Whislash",
+    "profession": "WARRIOR",
+    "skills": [
+      "Motivational Skills",
+      "Whip Sword"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_106_franka",
+    "name": "Franka",
+    "profession": "WARRIOR",
+    "skills": [
+      "Swift Strike γ",
+      "Vorpal Edge"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_131_flameb",
+    "name": "Flamebringer",
+    "profession": "WARRIOR",
+    "skills": [
+      "Blood Pact",
+      "Blade Demon"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_155_tiger",
+    "name": "Indra",
+    "profession": "WARRIOR",
+    "skills": [
+      "Armorcrusher",
+      "Sundered Soul"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_415_flint",
+    "name": "Flint",
+    "profession": "WARRIOR",
+    "skills": [
+      "Relentless",
+      "Display of Might"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_140_whitew",
+    "name": "Lappland",
+    "profession": "WARRIOR",
+    "skills": [
+      "Sundial",
+      "Wolf Spirit"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_294_ayer",
+    "name": "Ayerscarpe",
+    "profession": "WARRIOR",
+    "skills": [
+      "Shrapnel Burst",
+      "Activate Phase Blades"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_252_bibeak",
+    "name": "Bibeak",
+    "profession": "WARRIOR",
+    "skills": [
+      "Plumage Pins",
+      "Blade Swap"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_459_tachak",
+    "name": "Tachanka",
+    "profession": "WARRIOR",
+    "skills": [
+      "Incendiary Grenade",
+      "Spray and Pray"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_143_ghost",
+    "name": "Specter",
+    "profession": "WARRIOR",
+    "skills": [
+      "ATK Up γ",
+      "Bone Fracture"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_356_broca",
+    "name": "Broca",
+    "profession": "WARRIOR",
+    "skills": [
+      "Galvanize",
+      "High-Voltage Current"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_274_astesi",
+    "name": "Astesia",
+    "profession": "WARRIOR",
+    "skills": [
+      "Astral Protection",
+      "Astral Sword"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_333_sidero",
+    "name": "Sideroca",
+    "profession": "WARRIOR",
+    "skills": [
+      "Regeneration γ",
+      "Restorative Surge"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_475_akafyu",
+    "name": "Akafuyu",
+    "profession": "WARRIOR",
+    "skills": [
+      "Nobukage-ryu - Kaminari Gatana no Zei",
+      "Nobukage-ryu - Juumonji Masaru"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_421_crow",
+    "name": "La Pluma",
+    "profession": "WARRIOR",
+    "skills": [
+      "Rapid Slashing",
+      "Reap"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_486_takila",
+    "name": "Tequila",
+    "profession": "WARRIOR",
+    "skills": [
+      "Decisive Action",
+      "Esoteric Bladework"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_129_bluep",
+    "name": "Blue Poison",
+    "profession": "SNIPER",
+    "skills": [
+      "Twinshot - Auto",
+      "Venom Spray"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_204_platnm",
+    "name": "Platinum",
+    "profession": "SNIPER",
+    "skills": [
+      "ATK Up γ",
+      "Pegasian Sight"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_367_swllow",
+    "name": "GreyThroat",
+    "profession": "SNIPER",
+    "skills": [
+      "Flying Feathers",
+      "Counterflow"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_365_aprl",
+    "name": "April",
+    "profession": "SNIPER",
+    "skills": [
+      "Precise Shooting",
+      "Flexible Camouflage"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_219_meteo",
+    "name": "Meteorite",
+    "profession": "SNIPER",
+    "skills": [
+      "Buckshot",
+      "High-Explosive Shell"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_379_sesa",
+    "name": "Sesa",
+    "profession": "SNIPER",
+    "skills": [
+      "ATK Up γ",
+      "Delayed Concussive Parts"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_279_excu",
+    "name": "Executor",
+    "profession": "SNIPER",
+    "skills": [
+      "Muzzle's Elegy",
+      "Final Journey"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_346_aosta",
+    "name": "Aosta",
+    "profession": "SNIPER",
+    "skills": [
+      "Swift Strike γ",
+      "Shadow Nails"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_002_amiya",
+    "name": "Amiya",
+    "profession": "CASTER",
+    "skills": [
+      "Tactical Chant γ",
+      "Spirit Burst",
+      "Chimera"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_405_absin",
+    "name": "Absinthe",
+    "profession": "CASTER",
+    "skills": [
+      "Enforcement Mode",
+      "Ultimatum"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_411_tomimi",
+    "name": "Tomimi",
+    "profession": "CASTER",
+    "skills": [
+      "Tribal Techniques",
+      "Gavial's Protection Plan"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_166_skfire",
+    "name": "Skyfire",
+    "profession": "CASTER",
+    "skills": [
+      "ATK Up γ",
+      "Fire of Heaven"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_306_leizi",
+    "name": "Leizi",
+    "profession": "CASTER",
+    "skills": [
+      "ATK Up γ",
+      "Thunderclap"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_344_beewax",
+    "name": "Beeswax",
+    "profession": "CASTER",
+    "skills": [
+      "Growing Sandstorm",
+      "Guardian Obelisk"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_373_lionhd",
+    "name": "Leonhardt",
+    "profession": "CASTER",
+    "skills": [
+      "ATK Up γ",
+      "Deconstruct and Detonate"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_388_mint",
+    "name": "Mint",
+    "profession": "CASTER",
+    "skills": [
+      "Wind Whispers",
+      "Swirling Vortex"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_338_iris",
+    "name": "Iris",
+    "profession": "CASTER",
+    "skills": [
+      "Fairytale Guardian",
+      "Dreamland's Cradle"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_1011_lava2",
+    "name": "Lava the Purgatory",
+    "profession": "CASTER",
+    "skills": [
+      "Flame Quenched Dagger",
+      "Ring of Hellfire"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_489_serum",
+    "name": "Corroserum",
+    "profession": "CASTER",
+    "skills": [
+      "Focus Overload",
+      "Conductive Corrosive Blast"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_242_otter",
+    "name": "Mayer",
+    "profession": "SUPPORT",
+    "skills": [
+      "Bionic Device",
+      "Detonate and Recycle"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_336_folivo",
+    "name": "Scene",
+    "profession": "SUPPORT",
+    "skills": [
+      "Protective Camouflage",
+      "Panoramic Overload"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_108_silent",
+    "name": "Silence",
+    "profession": "MEDIC",
+    "skills": [
+      "Healing Up γ",
+      "Medical Drone"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_171_bldsk",
+    "name": "Warfarin",
+    "profession": "MEDIC",
+    "skills": [
+      "Emergency Triage",
+      "Unstable Plasma"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_345_folnic",
+    "name": "Folinic",
+    "profession": "MEDIC",
+    "skills": [
+      "Max-Dosage Infusion",
+      "Compound Drug Shell"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_348_ceylon",
+    "name": "Ceylon",
+    "profession": "MEDIC",
+    "skills": [
+      "Concentrated Hydrotherapy",
+      "Water Blessing"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_436_whispr",
+    "name": "Whisperain",
+    "profession": "MEDIC",
+    "skills": [
+      "Oriented Diagnosis",
+      "Pain Suppression"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_402_tuye",
+    "name": "Tuye",
+    "profession": "MEDIC",
+    "skills": [
+      "Aqua Loop",
+      "Cardiac Stimulant"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_473_mberry",
+    "name": "Mulberry",
+    "profession": "MEDIC",
+    "skills": [
+      "Healing Haze",
+      "Safe Zone"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_449_glider",
+    "name": "Honeyberry",
+    "profession": "MEDIC",
+    "skills": [
+      "Spiritual Care",
+      "Rouse"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_148_nearl",
+    "name": "Nearl",
+    "profession": "TANK",
+    "skills": [
+      "First Aid",
+      "First Aid Mode"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_226_hmau",
+    "name": "Hung",
+    "profession": "TANK",
+    "skills": [
+      "Treatment Countermeasure",
+      "Medical Mode Countermeasure"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_144_red",
+    "name": "Projekt Red",
+    "profession": "SPECIAL",
+    "skills": [
+      "Execution Mode",
+      "Wolfpack"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_243_waaifu",
+    "name": "Waai Fu",
+    "profession": "SPECIAL",
+    "skills": [
+      "One-inch Punch",
+      "Seven-styles Kick"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_214_kafka",
+    "name": "Kafka",
+    "profession": "SPECIAL",
+    "skills": [
+      "Cube of Absurdism",
+      "Shears of Surrealism"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_455_nothin",
+    "name": "Mr. Nothing",
+    "profession": "SPECIAL",
+    "skills": [
+      "Cautious Retreat",
+      "Wax and Wane"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_107_liskam",
+    "name": "Liskarm",
+    "profession": "TANK",
+    "skills": [
+      "Charged Defense",
+      "Counter Arc"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_201_moeshd",
+    "name": "Croissant",
+    "profession": "TANK",
+    "skills": [
+      "Auto Defense",
+      "Magnetic Hammer"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_325_bison",
+    "name": "Bison",
+    "profession": "TANK",
+    "skills": [
+      "DEF Up γ",
+      "Intensified Defense"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_163_hpsts",
+    "name": "Vulcan",
+    "profession": "TANK",
+    "skills": [
+      "Guardian Mode",
+      "Combat Mode"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_378_asbest",
+    "name": "Asbestos",
+    "profession": "TANK",
+    "skills": [
+      "Resilient Mode",
+      "Thermal Power Mode"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_457_blitz",
+    "name": "Blitz",
+    "profession": "TANK",
+    "skills": [
+      "Flash Shield",
+      "Shield Bash"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_304_zebra",
+    "name": "Heavyrain",
+    "profession": "TANK",
+    "skills": [
+      "Emergency Camouflage",
+      "Group Camouflage"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_431_ashlok",
+    "name": "Ashlock",
+    "profession": "TANK",
+    "skills": [
+      "ATK Up γ",
+      "Focused Bombardment"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_145_prove",
+    "name": "Provence",
+    "profession": "SNIPER",
+    "skills": [
+      "Wolf's Eye",
+      "Prey Seeker"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_158_milu",
+    "name": "Firewatch",
+    "profession": "SNIPER",
+    "skills": [
+      "Camouflage",
+      "Tactical Transceiver"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_218_cuttle",
+    "name": "Andreana",
+    "profession": "SNIPER",
+    "skills": [
+      "ATK Up γ",
+      "Interdictive Sniping Tactics"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_363_toddi",
+    "name": "Toddifons",
+    "profession": "SNIPER",
+    "skills": [
+      "Signal Arrow",
+      "Portable Fortcracker Arrows"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_173_slchan",
+    "name": "Cliffheart",
+    "profession": "SPECIAL",
+    "skills": [
+      "Chain Hook",
+      "Binding Chains"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_383_snsant",
+    "name": "Snowsant",
+    "profession": "SPECIAL",
+    "skills": [
+      "Barbed Clawhook",
+      "Telescoping Electric Net"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_174_slbell",
+    "name": "Pramanix",
+    "profession": "SUPPORT",
+    "skills": [
+      "Echolocation",
+      "Natural Deterrent"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_254_vodfox",
+    "name": "Shamare",
+    "profession": "SUPPORT",
+    "skills": [
+      "Malediction",
+      "Cursed Doll"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_195_glassb",
+    "name": "Istina",
+    "profession": "SUPPORT",
+    "skills": [
+      "Concentration",
+      "Literature Storm"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_326_glacus",
+    "name": "Glaucus",
+    "profession": "SUPPORT",
+    "skills": [
+      "Binary Reload",
+      "Counter EMP"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_101_sora",
+    "name": "Sora",
+    "profession": "SUPPORT",
+    "skills": [
+      "Hymn of Respite",
+      "Hymn of Battle"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_343_tknogi",
+    "name": "Tsukinogi",
+    "profession": "SUPPORT",
+    "skills": [
+      "Without a Trace",
+      "Forest's Embrace"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_215_mantic",
+    "name": "Manticore",
+    "profession": "SPECIAL",
+    "skills": [
+      "Scorpion Venom",
+      "Toxic Overload"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_478_kirara",
+    "name": "Kirara",
+    "profession": "SPECIAL",
+    "skills": [
+      "Anchor Strike",
+      "Anchor Point Snap"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_241_panda",
+    "name": "FEater",
+    "profession": "SPECIAL",
+    "skills": [
+      "Raging Iron Fist",
+      "Destructive Fist"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_451_robin",
+    "name": "Robin",
+    "profession": "SPECIAL",
+    "skills": [
+      "Binding 'Clip'",
+      "Launching 'Clip'"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_458_rfrost",
+    "name": "Frost",
+    "profession": "SPECIAL",
+    "skills": [
+      "Trap Deployment",
+      "Incapacitated Prey"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_369_bena",
+    "name": "Bena",
+    "profession": "SPECIAL",
+    "skills": [
+      "Fervent Trimming",
+      "Rapid Trimming"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_103_angel",
+    "name": "Exusiai",
+    "profession": "SNIPER",
+    "skills": [
+      "Charging Mode",
+      "Shooting Mode",
+      "Overloading Mode"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_332_archet",
+    "name": "Archetto",
+    "profession": "SNIPER",
+    "skills": [
+      "Dispersing Arrows",
+      "Pursuing Arrows",
+      "Thundering Arrows"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_456_ash",
+    "name": "Ash",
+    "profession": "SNIPER",
+    "skills": [
+      "Supporting Fire",
+      "Assault Tactics",
+      "Breaching Rounds"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_340_shwaz",
+    "name": "Schwarz",
+    "profession": "SNIPER",
+    "skills": [
+      "Charged Shot",
+      "Sharp Eye",
+      "Final Tactics"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_430_fartth",
+    "name": "Fartooth",
+    "profession": "SNIPER",
+    "skills": [
+      "Swift Strike γ",
+      "Ally Support",
+      "Feathershine Arrows"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_113_cqbw",
+    "name": "W",
+    "profession": "SNIPER",
+    "skills": [
+      "King of Hearts",
+      "Jack in the Box",
+      "D12"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_197_poca",
+    "name": "Rosa",
+    "profession": "SNIPER",
+    "skills": [
+      "ATK Up γ",
+      "Split Shot",
+      "Avalanche Breaker"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_391_rosmon",
+    "name": "Rosmontis",
+    "profession": "SNIPER",
+    "skills": [
+      "Expanded Cognition",
+      "Nociceptor Inhibition",
+      "'As You Wish'"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_1013_chen2",
+    "name": "Ch'en the Holungday",
+    "profession": "SNIPER",
+    "skills": [
+      "High-Pressure Splash",
+      "'Night of Violet'",
+      "'Holiday Storm'"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_112_siege",
+    "name": "Siege",
+    "profession": "PIONEER",
+    "skills": [
+      "Charge γ",
+      "Aerial Hammer",
+      "Skull Breaker"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_222_bpipe",
+    "name": "Bagpipe",
+    "profession": "PIONEER",
+    "skills": [
+      "Swift Strike γ",
+      "High-Impact Assault",
+      "Locked Breech Burst"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_362_saga",
+    "name": "Saga",
+    "profession": "PIONEER",
+    "skills": [
+      "Charge γ",
+      "Cleansing Evil",
+      "Fierce Glare"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_479_sleach",
+    "name": "Saileach",
+    "profession": "PIONEER",
+    "skills": [
+      "Support γ",
+      "Inheritance of Faith",
+      "Glorious Banner"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_420_flamtl",
+    "name": "Flametail",
+    "profession": "PIONEER",
+    "skills": [
+      "Quick Intuition",
+      "'Pinus Sylvestris'",
+      "Flameheart"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_134_ifrit",
+    "name": "Ifrit",
+    "profession": "CASTER",
+    "skills": [
+      "Fanaticism",
+      "Pyroclasm",
+      "Scorched Earth"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_213_mostma",
+    "name": "Mostima",
+    "profession": "CASTER",
+    "skills": [
+      "ATK Up γ",
+      "Lock of Shattered Time",
+      "Key of Chronology"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_180_amgoat",
+    "name": "Eyjafjalla",
+    "profession": "CASTER",
+    "skills": [
+      "Duetto",
+      "Ignition",
+      "Volcano"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_2013_cerber",
+    "name": "Ceobe",
+    "profession": "CASTER",
+    "skills": [
+      "'Really Cold Axe'",
+      "'Really Hot Knives'",
+      "'Really Heavy Spear'"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_2015_dusk",
+    "name": "Dusk",
+    "profession": "CASTER",
+    "skills": [
+      "Transcendental Stroke",
+      "Flowing Ink",
+      "Image over Form"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_472_pasngr",
+    "name": "Passenger",
+    "profession": "CASTER",
+    "skills": [
+      "Touch of Static",
+      "Focus Command",
+      "Glorious Shards"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_426_billro",
+    "name": "Carnelian",
+    "profession": "CASTER",
+    "skills": [
+      "Sandstorm Guardian",
+      "Sand Fetters",
+      "Mark of Gluttony"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_291_aglina",
+    "name": "Angelina",
+    "profession": "SUPPORT",
+    "skills": [
+      "Arcane Staff - Quick Charge Mode",
+      "Arcane Staff - Particle Mode",
+      "Arcane Staff - Anti-Gravity Mode"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_358_lisa",
+    "name": "Suzuran",
+    "profession": "SUPPORT",
+    "skills": [
+      "I'll Do My Best",
+      "Childhood Frolic",
+      "Foxfire Haze"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_248_mgllan",
+    "name": "Magallan",
+    "profession": "SUPPORT",
+    "skills": [
+      "High-Efficiency Freezing Module",
+      "Laser Mining Module",
+      "Armed Combat Module"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_1012_skadi2",
+    "name": "Skadi the Corrupting Heart",
+    "profession": "SUPPORT",
+    "skills": [
+      "Chant of Returning by Varied Paths",
+      "Wish of Burial Beyond the Light",
+      "'The Tide Surges, The Tide Recedes'"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_250_phatom",
+    "name": "Phantom",
+    "profession": "SPECIAL",
+    "skills": [
+      "Phantom of the Night",
+      "Bloody Opus",
+      "Night Raid"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_400_weedy",
+    "name": "Weedy",
+    "profession": "SPECIAL",
+    "skills": [
+      "Barrel Burst",
+      "Hydraulics Mode",
+      "Liquid Nitrogen Cannon"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_225_haak",
+    "name": "Aak",
+    "profession": "SPECIAL",
+    "skills": [
+      "Rapid Fire",
+      "Type-γ Stimpack",
+      "Durian-Flavored Stimpack"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_474_glady",
+    "name": "Gladiia",
+    "profession": "SPECIAL",
+    "skills": [
+      "Waterless Parting of the Great Ocean",
+      "Waterless Grasp of the Raging Seas",
+      "Waterless Dance of the Shattered Maelstrom"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_437_mizuki",
+    "name": "Mizuki",
+    "profession": "SPECIAL",
+    "skills": [
+      "Awaken",
+      "Prisoner's Dilemma",
+      "Moon in the Water"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_147_shining",
+    "name": "Shining",
+    "profession": "MEDIC",
+    "skills": [
+      "Creed",
+      "Auto Protect",
+      "Creed Field"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_179_cgbird",
+    "name": "Nightingale",
+    "profession": "MEDIC",
+    "skills": [
+      "Healing Up γ",
+      "Arts Shield",
+      "Sanctuary"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_003_kalts",
+    "name": "Kal'tsit",
+    "profession": "MEDIC",
+    "skills": [
+      "Command: Structural Fortification",
+      "Command: Tactical Coordination",
+      "Command: Meltdown"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_136_hsguma",
+    "name": "Hoshiguma",
+    "profession": "TANK",
+    "skills": [
+      "Warpath",
+      "Thorns",
+      "Saw of Strength"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_202_demkni",
+    "name": "Saria",
+    "profession": "TANK",
+    "skills": [
+      "First Aid",
+      "Medicine Dispensing",
+      "Calcification"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_423_blemsh",
+    "name": "Blemishine",
+    "profession": "TANK",
+    "skills": [
+      "Surging Brilliance",
+      "Deterring Radiance",
+      "Divine Avatar"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_2014_nian",
+    "name": "Nian",
+    "profession": "TANK",
+    "skills": [
+      "Tin Burning",
+      "Copper Seal",
+      "Iron Defense"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_311_mudrok",
+    "name": "Mudrock",
+    "profession": "TANK",
+    "skills": [
+      "DEF Up γ",
+      "Crag Splitter",
+      "Bloodline of Desecrated Earth"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_416_zumama",
+    "name": "Eunectes",
+    "profession": "TANK",
+    "skills": [
+      "Tomahawk",
+      "Menacing Slash",
+      "Iron Will"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_264_f12yin",
+    "name": "Mountain",
+    "profession": "WARRIOR",
+    "skills": [
+      "Left Hook",
+      "Sweeping Stance",
+      "Earth-Shattering Smash"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_172_svrash",
+    "name": "SilverAsh",
+    "profession": "WARRIOR",
+    "skills": [
+      "Power Strike γ",
+      "Rules of Survival",
+      "Truesilver Slash"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_293_thorns",
+    "name": "Thorns",
+    "profession": "WARRIOR",
+    "skills": [
+      "ATK Up γ",
+      "Protective Spikes",
+      "Destreza"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_010_chen",
+    "name": "Ch'en",
+    "profession": "WARRIOR",
+    "skills": [
+      "Sheathed Strike",
+      "Chi Xiao - Unsheath",
+      "Chi Xiao - Shadowless"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_017_huang",
+    "name": "Blaze",
+    "profession": "WARRIOR",
+    "skills": [
+      "Power Strike γ",
+      "Chainsaw Extension Module",
+      "Boiling Burst"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_350_surtr",
+    "name": "Surtr",
+    "profession": "WARRIOR",
+    "skills": [
+      "Laevatain",
+      "Molten Giant",
+      "Twilight"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_188_helage",
+    "name": "Hellagur",
+    "profession": "WARRIOR",
+    "skills": [
+      "Crescent Moon",
+      "Half Moon",
+      "Full Moon"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_485_pallas",
+    "name": "Pallas",
+    "profession": "WARRIOR",
+    "skills": [
+      "Strikes of Victory",
+      "Whip of Conviction",
+      "Blessing of Heroism"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_1014_nearl2",
+    "name": "Nearl the Radiant Knight",
+    "profession": "WARRIOR",
+    "skills": [
+      "Flaming Edge",
+      "Night-Scouring Gleam",
+      "Blazing Sun's Obeisance"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_230_savage",
+    "name": "Savage",
+    "profession": "WARRIOR",
+    "skills": [
+      "Power Strike β",
+      "Precise Blast"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 3
+  },
+  {
+    "id": "char_282_catap",
+    "name": "Catapult",
+    "profession": "SNIPER",
+    "skills": [
+      "Blast Range Up α"
+    ],
+    "rarity": 3,
+    "maxElite": 1,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_283_midn",
+    "name": "Midnight",
+    "profession": "WARRIOR",
+    "skills": [
+      "Enchant Weapon α"
+    ],
+    "rarity": 3,
+    "maxElite": 1,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_137_brownb",
+    "name": "Beehunter",
+    "profession": "WARRIOR",
+    "skills": [
+      "Flexibility",
+      "Soaring Fists"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_347_jaksel",
+    "name": "Jackie",
+    "profession": "WARRIOR",
+    "skills": [
+      "Grit Those Teeth!",
+      "Pay Close Attention!"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_164_nightm",
+    "name": "Nightmare",
+    "profession": "CASTER",
+    "skills": [
+      "Drain Soul",
+      "Night Phantom"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_220_grani",
+    "name": "Grani",
+    "profession": "PIONEER",
+    "skills": [
+      "DEF Up γ",
+      "Press the Attack!"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_263_skadi",
+    "name": "Skadi",
+    "profession": "WARRIOR",
+    "skills": [
+      "Swift Strike γ",
+      "Wave Strike",
+      "Tidal Elegy"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_4041_chnut",
+    "name": "Chestnut",
+    "profession": "MEDIC",
+    "skills": [
+      "积微成著",
+      "厚土迸发"
+    ],
+    "rarity": 4,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_476_blkngt",
+    "name": "Blacknight",
+    "profession": "PIONEER",
+    "skills": [
+      "半醒",
+      "安眠"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_1021_kroos2",
+    "name": "Kroos the Keen Glint",
+    "profession": "SNIPER",
+    "skills": [
+      "无痕",
+      "封喉"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_4013_kjera",
+    "name": "Kjera",
+    "profession": "CASTER",
+    "skills": [
+      "攻击力强化·γ型",
+      "心随意动"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_4040_rockr",
+    "name": "Rockrock",
+    "profession": "CASTER",
+    "skills": [
+      "战术咏唱·γ型",
+      "自负此轭"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_4025_aprot2",
+    "name": "Shalem",
+    "profession": "TANK",
+    "skills": [
+      "速战速决",
+      "燃命狂欢"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_422_aurora",
+    "name": "Aurora",
+    "profession": "TANK",
+    "skills": [
+      "固守家园",
+      "人工降雪"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_4045_heidi",
+    "name": "Heidi",
+    "profession": "SUPPORT",
+    "skills": [
+      "虚构故事·怒士",
+      "虚构故事·锈城"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_4019_ncdeer",
+    "name": "Nine-Colored Deer",
+    "profession": "SUPPORT",
+    "skills": [
+      "人间降吉",
+      "仙山去远"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 1
+  },
+  {
+    "id": "char_492_quercu",
+    "name": "Quercus",
+    "profession": "SUPPORT",
+    "skills": [
+      "大地的慈悲",
+      "生灵的回响"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_4036_forcer",
+    "name": "Enforcer",
+    "profession": "SPECIAL",
+    "skills": [
+      "护身射击",
+      "惊爆射击"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_4016_kazema",
+    "name": "Kazemaru",
+    "profession": "SPECIAL",
+    "skills": [
+      "纸艺·迅击",
+      "纸艺·双影"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_300_phenxi",
+    "name": "Fiammetta",
+    "profession": "SNIPER",
+    "skills": [
+      "“你须直面”",
+      "“你须愧悔”",
+      "“你须偿还”"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_377_gdglow",
+    "name": "Goldenglow",
+    "profession": "CASTER",
+    "skills": [
+      "火花四溅",
+      "电流翻涌",
+      "澄净闪耀"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_206_gnosis",
+    "name": "Gnosis",
+    "profession": "SUPPORT",
+    "skills": [
+      "高速思考",
+      "零度爆发",
+      "失温症"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_2023_ling",
+    "name": "Ling",
+    "profession": "SUPPORT",
+    "skills": [
+      "重进酒",
+      "笑鸣瑟",
+      "宁作吾"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_322_lmlee",
+    "name": "Lee",
+    "profession": "SPECIAL",
+    "skills": [
+      "小惩大诫",
+      "驱凶辟邪",
+      "贵客盈门"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  },
+  {
+    "id": "char_4039_horn",
+    "name": "Horn",
+    "profession": "TANK",
+    "skills": [
+      "照明榴弹",
+      "暴风号令",
+      "终极防线"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6
+  }
+]
