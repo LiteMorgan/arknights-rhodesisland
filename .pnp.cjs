@@ -36,6 +36,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["autoprefixer", "virtual:16fd08f55232957ed282fc174188408f0451cb4ab4a3f020d47f38f1df966bb583dd3cf5625b816df228f9ec51db98f75d28ea5ada6e85a9ba0aa13e3b46cc01#npm:10.4.4"],\
             ["eslint", "npm:8.13.0"],\
             ["eslint-config-next", "virtual:16fd08f55232957ed282fc174188408f0451cb4ab4a3f020d47f38f1df966bb583dd3cf5625b816df228f9ec51db98f75d28ea5ada6e85a9ba0aa13e3b46cc01#npm:12.1.5"],\
+            ["flexsearch", "npm:0.7.21"],\
             ["lodash", "npm:4.17.21"],\
             ["next", "virtual:16fd08f55232957ed282fc174188408f0451cb4ab4a3f020d47f38f1df966bb583dd3cf5625b816df228f9ec51db98f75d28ea5ada6e85a9ba0aa13e3b46cc01#npm:12.1.5"],\
             ["postcss", "npm:8.4.12"],\
@@ -615,6 +616,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["autoprefixer", "virtual:16fd08f55232957ed282fc174188408f0451cb4ab4a3f020d47f38f1df966bb583dd3cf5625b816df228f9ec51db98f75d28ea5ada6e85a9ba0aa13e3b46cc01#npm:10.4.4"],\
             ["eslint", "npm:8.13.0"],\
             ["eslint-config-next", "virtual:16fd08f55232957ed282fc174188408f0451cb4ab4a3f020d47f38f1df966bb583dd3cf5625b816df228f9ec51db98f75d28ea5ada6e85a9ba0aa13e3b46cc01#npm:12.1.5"],\
+            ["flexsearch", "npm:0.7.21"],\
             ["lodash", "npm:4.17.21"],\
             ["next", "virtual:16fd08f55232957ed282fc174188408f0451cb4ab4a3f020d47f38f1df966bb583dd3cf5625b816df228f9ec51db98f75d28ea5ada6e85a9ba0aa13e3b46cc01#npm:12.1.5"],\
             ["postcss", "npm:8.4.12"],\
@@ -1778,6 +1780,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/flatted-npm-3.2.5-0ee5a8875f-3c436e9695.zip/node_modules/flatted/",\
           "packageDependencies": [\
             ["flatted", "npm:3.2.5"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["flexsearch", [\
+        ["npm:0.7.21", {\
+          "packageLocation": "./.yarn/cache/flexsearch-npm-0.7.21-bdbc52072a-ae77c6ebba.zip/node_modules/flexsearch/",\
+          "packageDependencies": [\
+            ["flexsearch", "npm:0.7.21"]\
           ],\
           "linkType": "HARD"\
         }]\

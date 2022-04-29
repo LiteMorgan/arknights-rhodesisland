@@ -464,6 +464,7 @@ __metadata:
     autoprefixer: ^10.4.4
     eslint: 8.13.0
     eslint-config-next: 12.1.5
+    flexsearch: ^0.7.21
     lodash: ^4.17.21
     next: 12.1.5
     postcss: ^8.4.12
@@ -1371,6 +1372,13 @@ __metadata:
   version: 3.2.5
   resolution: "flatted@npm:3.2.5"
   checksum: 3c436e9695ccca29620b4be5671dd72e5dd0a7500e0856611b7ca9bd8169f177f408c3b9abfa78dfe1493ee2d873e2c119080a8a9bee4e1a186a9e60ca6c89f1
+  languageName: node
+  linkType: hard
+
+"flexsearch@npm:^0.7.21":
+  version: 0.7.21
+  resolution: "flexsearch@npm:0.7.21"
+  checksum: ae77c6ebba6f02660bf28a36b56427ec2d737dcb9bd03564db27801484be2dd943fc7350e60a6f0aed47ab1b85af7fd5b33e27e84fd2fcbb241d9c5d21c8d068
   languageName: node
   linkType: hard
 
