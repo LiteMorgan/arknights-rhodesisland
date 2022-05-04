@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "update-game-data": "git submodule update --init --recursive --remote && node ./scripts/mutateGameData.mjs"
+    "update-game-data": "git submodule update --init --recursive --remote && node ./scripts/mutateGameData.mjs && node ./scripts/copyImageAssets.mjs"
   },
   "dependencies": {
     "@headlessui/react": "^1.6.0",
@@ -20,6 +20,7 @@
     "autoprefixer": "^10.4.4",
     "eslint": "8.13.0",
     "eslint-config-next": "12.1.5",
+    "fast-glob": "^3.2.11",
     "flexsearch": "^0.7.21",
     "postcss": "^8.4.12",
     "prettier": "^2.6.2",
