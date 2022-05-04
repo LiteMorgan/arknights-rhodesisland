@@ -10,6 +10,7 @@
     "update-game-data": "git submodule update --init --recursive --remote && node ./scripts/mutateGameData.mjs"
   },
   "dependencies": {
+    "@headlessui/react": "^1.6.0",
     "lodash": "^4.17.21",
     "next": "12.1.5",
     "react": "18.0.0",

@@ -33,6 +33,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
+            ["@headlessui/react", "virtual:16fd08f55232957ed282fc174188408f0451cb4ab4a3f020d47f38f1df966bb583dd3cf5625b816df228f9ec51db98f75d28ea5ada6e85a9ba0aa13e3b46cc01#npm:1.6.0"],\
             ["autoprefixer", "virtual:16fd08f55232957ed282fc174188408f0451cb4ab4a3f020d47f38f1df966bb583dd3cf5625b816df228f9ec51db98f75d28ea5ada6e85a9ba0aa13e3b46cc01#npm:10.4.4"],\
             ["eslint", "npm:8.13.0"],\
             ["eslint-config-next", "virtual:16fd08f55232957ed282fc174188408f0451cb4ab4a3f020d47f38f1df966bb583dd3cf5625b816df228f9ec51db98f75d28ea5ada6e85a9ba0aa13e3b46cc01#npm:12.1.5"],\
@@ -93,6 +94,32 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@gar-promisify-npm-1.1.3-ac1a325862-4059f790e2.zip/node_modules/@gar/promisify/",\
           "packageDependencies": [\
             ["@gar/promisify", "npm:1.1.3"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["@headlessui/react", [\
+        ["npm:1.6.0", {\
+          "packageLocation": "./.yarn/cache/@headlessui-react-npm-1.6.0-6d729ca4d2-ee12b13dd2.zip/node_modules/@headlessui/react/",\
+          "packageDependencies": [\
+            ["@headlessui/react", "npm:1.6.0"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
+        ["virtual:16fd08f55232957ed282fc174188408f0451cb4ab4a3f020d47f38f1df966bb583dd3cf5625b816df228f9ec51db98f75d28ea5ada6e85a9ba0aa13e3b46cc01#npm:1.6.0", {\
+          "packageLocation": "./.yarn/__virtual__/@headlessui-react-virtual-6464a86569/0/cache/@headlessui-react-npm-1.6.0-6d729ca4d2-ee12b13dd2.zip/node_modules/@headlessui/react/",\
+          "packageDependencies": [\
+            ["@headlessui/react", "virtual:16fd08f55232957ed282fc174188408f0451cb4ab4a3f020d47f38f1df966bb583dd3cf5625b816df228f9ec51db98f75d28ea5ada6e85a9ba0aa13e3b46cc01#npm:1.6.0"],\
+            ["@types/react", null],\
+            ["@types/react-dom", null],\
+            ["react", "npm:18.0.0"],\
+            ["react-dom", "virtual:16fd08f55232957ed282fc174188408f0451cb4ab4a3f020d47f38f1df966bb583dd3cf5625b816df228f9ec51db98f75d28ea5ada6e85a9ba0aa13e3b46cc01#npm:18.0.0"]\
+          ],\
+          "packagePeers": [\
+            "@types/react-dom",\
+            "@types/react",\
+            "react-dom",\
+            "react"\
           ],\
           "linkType": "HARD"\
         }]\
@@ -613,6 +640,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["arknights-rhodesisland", "workspace:."],\
+            ["@headlessui/react", "virtual:16fd08f55232957ed282fc174188408f0451cb4ab4a3f020d47f38f1df966bb583dd3cf5625b816df228f9ec51db98f75d28ea5ada6e85a9ba0aa13e3b46cc01#npm:1.6.0"],\
             ["autoprefixer", "virtual:16fd08f55232957ed282fc174188408f0451cb4ab4a3f020d47f38f1df966bb583dd3cf5625b816df228f9ec51db98f75d28ea5ada6e85a9ba0aa13e3b46cc01#npm:10.4.4"],\
             ["eslint", "npm:8.13.0"],\
             ["eslint-config-next", "virtual:16fd08f55232957ed282fc174188408f0451cb4ab4a3f020d47f38f1df966bb583dd3cf5625b816df228f9ec51db98f75d28ea5ada6e85a9ba0aa13e3b46cc01#npm:12.1.5"],\

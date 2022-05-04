@@ -48,6 +48,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@headlessui/react@npm:^1.6.0":
+  version: 1.6.0
+  resolution: "@headlessui/react@npm:1.6.0"
+  peerDependencies:
+    react: ^16 || ^17 || ^18
+    react-dom: ^16 || ^17 || ^18
+  checksum: ee12b13dd2e98fc2f6ccebda78c6bbc4ca00e8f3cbb670cb330334591b317448fdaa250b250795c643833c344a7cbc8ceca1a13ff0a7655e28bd05e742ac8599
+  languageName: node
+  linkType: hard
+
 "@humanwhocodes/config-array@npm:^0.9.2":
   version: 0.9.5
   resolution: "@humanwhocodes/config-array@npm:0.9.5"
@@ -461,6 +471,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "arknights-rhodesisland@workspace:."
   dependencies:
+    "@headlessui/react": ^1.6.0
     autoprefixer: ^10.4.4
     eslint: 8.13.0
     eslint-config-next: 12.1.5
