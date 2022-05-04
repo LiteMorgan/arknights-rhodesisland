@@ -6,7 +6,8 @@
     "skills": [],
     "rarity": 1,
     "maxElite": 0,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_286_cast3",
@@ -15,7 +16,8 @@
     "skills": [],
     "rarity": 1,
     "maxElite": 0,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_376_therex",
@@ -24,7 +26,8 @@
     "skills": [],
     "rarity": 1,
     "maxElite": 0,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_4000_jnight",
@@ -33,7 +36,8 @@
     "skills": [],
     "rarity": 1,
     "maxElite": 0,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_502_nblade",
@@ -42,7 +46,8 @@
     "skills": [],
     "rarity": 2,
     "maxElite": 0,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_500_noirc",
@@ -51,7 +56,8 @@
     "skills": [],
     "rarity": 2,
     "maxElite": 0,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_503_rang",
@@ -60,7 +66,8 @@
     "skills": [],
     "rarity": 2,
     "maxElite": 0,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_501_durin",
@@ -69,7 +76,8 @@
     "skills": [],
     "rarity": 2,
     "maxElite": 0,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_009_12fce",
@@ -78,7 +86,8 @@
     "skills": [],
     "rarity": 2,
     "maxElite": 0,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_123_fang",
@@ -89,7 +98,8 @@
     ],
     "rarity": 3,
     "maxElite": 1,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_240_wyvern",
@@ -100,7 +110,8 @@
     ],
     "rarity": 3,
     "maxElite": 1,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_192_falco",
@@ -111,7 +122,8 @@
     ],
     "rarity": 3,
     "maxElite": 1,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_208_melan",
@@ -122,7 +134,8 @@
     ],
     "rarity": 3,
     "maxElite": 1,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_281_popka",
@@ -133,7 +146,8 @@
     ],
     "rarity": 3,
     "maxElite": 1,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_209_ardign",
@@ -144,7 +158,8 @@
     ],
     "rarity": 3,
     "maxElite": 1,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_122_beagle",
@@ -155,7 +170,8 @@
     ],
     "rarity": 3,
     "maxElite": 1,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_284_spot",
@@ -166,7 +182,8 @@
     ],
     "rarity": 3,
     "maxElite": 1,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_124_kroos",
@@ -177,7 +194,8 @@
     ],
     "rarity": 3,
     "maxElite": 1,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_211_adnach",
@@ -188,7 +206,8 @@
     ],
     "rarity": 3,
     "maxElite": 1,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_121_lava",
@@ -199,7 +218,8 @@
     ],
     "rarity": 3,
     "maxElite": 1,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_120_hibisc",
@@ -210,7 +230,8 @@
     ],
     "rarity": 3,
     "maxElite": 1,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_212_ansel",
@@ -221,7 +242,8 @@
     ],
     "rarity": 3,
     "maxElite": 1,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_210_stward",
@@ -232,7 +254,8 @@
     ],
     "rarity": 3,
     "maxElite": 1,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_278_orchid",
@@ -243,7 +266,8 @@
     ],
     "rarity": 3,
     "maxElite": 1,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_141_nights",
@@ -255,7 +279,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_109_fmout",
@@ -267,7 +292,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_253_greyy",
@@ -279,7 +305,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_328_cammou",
@@ -291,7 +318,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_469_indigo",
@@ -303,7 +331,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_4004_pudd",
@@ -315,7 +344,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_235_jesica",
@@ -327,7 +357,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_126_shotst",
@@ -339,7 +370,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_190_clour",
@@ -351,7 +383,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_133_mm",
@@ -363,7 +396,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_118_yuki",
@@ -375,7 +409,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_440_pinecn",
@@ -387,7 +422,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_302_glaze",
@@ -399,7 +435,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_366_acdrop",
@@ -411,7 +448,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_198_blackd",
@@ -423,7 +461,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_149_scave",
@@ -435,7 +474,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_290_vigna",
@@ -447,7 +487,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_151_myrtle",
@@ -459,7 +500,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_452_bstalk",
@@ -471,7 +513,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_130_doberm",
@@ -483,7 +526,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_289_gyuki",
@@ -495,7 +539,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_159_peacok",
@@ -507,7 +552,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 1
+    "maxPotential": 1,
+    "cnOnly": false
   },
   {
     "id": "char_193_frostl",
@@ -519,7 +565,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_127_estell",
@@ -531,7 +578,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_185_frncat",
@@ -543,7 +591,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_301_cutter",
@@ -555,7 +604,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_337_utage",
@@ -567,7 +617,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_271_spikes",
@@ -579,7 +630,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_237_gravel",
@@ -591,7 +643,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_272_strong",
@@ -603,7 +656,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_236_rope",
@@ -615,7 +669,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_117_myrrh",
@@ -627,7 +682,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_187_ccheal",
@@ -639,7 +695,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_298_susuro",
@@ -651,7 +708,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_181_flower",
@@ -663,7 +721,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_385_finlpp",
@@ -675,7 +734,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_199_yak",
@@ -687,7 +747,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_150_snakek",
@@ -699,7 +760,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_381_bubble",
@@ -711,7 +773,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_196_sunbr",
@@ -723,7 +786,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_260_durnar",
@@ -735,7 +799,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_110_deepcl",
@@ -747,7 +812,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_183_skgoat",
@@ -759,7 +825,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_258_podego",
@@ -771,7 +838,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_484_robrta",
@@ -783,7 +851,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_355_ethan",
@@ -795,7 +864,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_277_sqrrel",
@@ -807,7 +877,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_128_plosis",
@@ -819,7 +890,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_275_breeze",
@@ -831,7 +903,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_115_headbr",
@@ -843,7 +916,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_102_texas",
@@ -855,7 +929,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_349_chiave",
@@ -867,7 +942,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_261_sddrag",
@@ -879,7 +955,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_496_wildmn",
@@ -891,7 +968,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_401_elysm",
@@ -903,7 +981,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_308_swire",
@@ -915,7 +994,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_265_sophia",
@@ -927,7 +1007,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_106_franka",
@@ -939,7 +1020,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_131_flameb",
@@ -951,7 +1033,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_155_tiger",
@@ -963,7 +1046,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_415_flint",
@@ -975,7 +1059,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_140_whitew",
@@ -987,7 +1072,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_294_ayer",
@@ -999,7 +1085,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_252_bibeak",
@@ -1011,7 +1098,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_459_tachak",
@@ -1023,7 +1111,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_143_ghost",
@@ -1035,7 +1124,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_356_broca",
@@ -1047,7 +1137,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_274_astesi",
@@ -1059,7 +1150,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_333_sidero",
@@ -1071,7 +1163,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_475_akafyu",
@@ -1083,7 +1176,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_421_crow",
@@ -1095,7 +1189,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_486_takila",
@@ -1107,7 +1202,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_129_bluep",
@@ -1119,7 +1215,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_204_platnm",
@@ -1131,7 +1228,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_367_swllow",
@@ -1143,7 +1241,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_365_aprl",
@@ -1155,7 +1254,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_219_meteo",
@@ -1167,7 +1267,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_379_sesa",
@@ -1179,7 +1280,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_279_excu",
@@ -1191,7 +1293,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_346_aosta",
@@ -1203,7 +1306,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_002_amiya",
@@ -1216,7 +1320,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_405_absin",
@@ -1228,7 +1333,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_411_tomimi",
@@ -1240,7 +1346,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_166_skfire",
@@ -1252,7 +1359,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_306_leizi",
@@ -1264,7 +1372,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_344_beewax",
@@ -1276,7 +1385,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_373_lionhd",
@@ -1288,7 +1398,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_388_mint",
@@ -1300,7 +1411,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_338_iris",
@@ -1312,7 +1424,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_1011_lava2",
@@ -1324,7 +1437,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_489_serum",
@@ -1336,7 +1450,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_242_otter",
@@ -1348,7 +1463,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_336_folivo",
@@ -1360,7 +1476,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_108_silent",
@@ -1372,7 +1489,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_171_bldsk",
@@ -1384,7 +1502,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_345_folnic",
@@ -1396,7 +1515,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_348_ceylon",
@@ -1408,7 +1528,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_436_whispr",
@@ -1420,7 +1541,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_402_tuye",
@@ -1432,7 +1554,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_473_mberry",
@@ -1444,7 +1567,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_449_glider",
@@ -1456,7 +1580,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_148_nearl",
@@ -1468,7 +1593,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_226_hmau",
@@ -1480,7 +1606,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_144_red",
@@ -1492,7 +1619,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_243_waaifu",
@@ -1504,7 +1632,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_214_kafka",
@@ -1516,7 +1645,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_455_nothin",
@@ -1528,7 +1658,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_107_liskam",
@@ -1540,7 +1671,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_201_moeshd",
@@ -1552,7 +1684,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_325_bison",
@@ -1564,7 +1697,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_163_hpsts",
@@ -1576,7 +1710,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_378_asbest",
@@ -1588,7 +1723,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_457_blitz",
@@ -1600,7 +1736,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_304_zebra",
@@ -1612,7 +1749,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_431_ashlok",
@@ -1624,7 +1762,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_145_prove",
@@ -1636,7 +1775,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_158_milu",
@@ -1648,7 +1788,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_218_cuttle",
@@ -1660,7 +1801,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_363_toddi",
@@ -1672,7 +1814,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_173_slchan",
@@ -1684,7 +1827,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_383_snsant",
@@ -1696,7 +1840,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_174_slbell",
@@ -1708,7 +1853,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_254_vodfox",
@@ -1720,7 +1866,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_195_glassb",
@@ -1732,7 +1879,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_326_glacus",
@@ -1744,7 +1892,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_101_sora",
@@ -1756,7 +1905,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_343_tknogi",
@@ -1768,7 +1918,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_215_mantic",
@@ -1780,7 +1931,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_478_kirara",
@@ -1792,7 +1944,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_241_panda",
@@ -1804,7 +1957,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_451_robin",
@@ -1816,7 +1970,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_458_rfrost",
@@ -1828,7 +1983,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_369_bena",
@@ -1840,7 +1996,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_103_angel",
@@ -1853,7 +2010,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_332_archet",
@@ -1866,7 +2024,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_456_ash",
@@ -1879,7 +2038,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_340_shwaz",
@@ -1892,7 +2052,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_430_fartth",
@@ -1905,7 +2066,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_113_cqbw",
@@ -1918,7 +2080,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_197_poca",
@@ -1931,7 +2094,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_391_rosmon",
@@ -1944,7 +2108,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_1013_chen2",
@@ -1957,7 +2122,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_112_siege",
@@ -1970,7 +2136,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_222_bpipe",
@@ -1983,7 +2150,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_362_saga",
@@ -1996,7 +2164,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_479_sleach",
@@ -2009,7 +2178,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_420_flamtl",
@@ -2022,7 +2192,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_134_ifrit",
@@ -2035,7 +2206,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_213_mostma",
@@ -2048,7 +2220,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_180_amgoat",
@@ -2061,7 +2234,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_2013_cerber",
@@ -2074,7 +2248,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_2015_dusk",
@@ -2087,7 +2262,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_472_pasngr",
@@ -2100,7 +2276,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_426_billro",
@@ -2113,7 +2290,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_291_aglina",
@@ -2126,7 +2304,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_358_lisa",
@@ -2139,7 +2318,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_248_mgllan",
@@ -2152,7 +2332,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_1012_skadi2",
@@ -2165,7 +2346,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_250_phatom",
@@ -2178,7 +2360,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_400_weedy",
@@ -2191,7 +2374,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_225_haak",
@@ -2204,7 +2388,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_474_glady",
@@ -2217,7 +2402,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_437_mizuki",
@@ -2230,7 +2416,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_147_shining",
@@ -2243,7 +2430,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_179_cgbird",
@@ -2256,7 +2444,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_003_kalts",
@@ -2269,7 +2458,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_136_hsguma",
@@ -2282,7 +2472,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_202_demkni",
@@ -2295,7 +2486,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_423_blemsh",
@@ -2308,7 +2500,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_2014_nian",
@@ -2321,7 +2514,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_311_mudrok",
@@ -2334,7 +2528,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_416_zumama",
@@ -2347,7 +2542,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_264_f12yin",
@@ -2360,7 +2556,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_172_svrash",
@@ -2373,7 +2570,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_293_thorns",
@@ -2386,7 +2584,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_010_chen",
@@ -2399,7 +2598,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_017_huang",
@@ -2412,7 +2612,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_350_surtr",
@@ -2425,7 +2626,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_188_helage",
@@ -2438,7 +2640,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_485_pallas",
@@ -2451,7 +2654,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_1014_nearl2",
@@ -2464,7 +2668,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_230_savage",
@@ -2476,7 +2681,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 3
+    "maxPotential": 3,
+    "cnOnly": false
   },
   {
     "id": "char_282_catap",
@@ -2487,7 +2693,8 @@
     ],
     "rarity": 3,
     "maxElite": 1,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_283_midn",
@@ -2498,7 +2705,8 @@
     ],
     "rarity": 3,
     "maxElite": 1,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_137_brownb",
@@ -2510,7 +2718,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_347_jaksel",
@@ -2522,7 +2731,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_164_nightm",
@@ -2534,7 +2744,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_220_grani",
@@ -2546,7 +2757,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_263_skadi",
@@ -2559,7 +2771,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": false
   },
   {
     "id": "char_4041_chnut",
@@ -2571,7 +2784,8 @@
     ],
     "rarity": 4,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": true
   },
   {
     "id": "char_476_blkngt",
@@ -2583,7 +2797,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": true
   },
   {
     "id": "char_1021_kroos2",
@@ -2595,7 +2810,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": true
   },
   {
     "id": "char_4013_kjera",
@@ -2607,7 +2823,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": true
   },
   {
     "id": "char_4040_rockr",
@@ -2619,7 +2836,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": true
   },
   {
     "id": "char_4025_aprot2",
@@ -2631,7 +2849,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": true
   },
   {
     "id": "char_422_aurora",
@@ -2643,7 +2862,21 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": true
+  },
+  {
+    "id": "char_433_windft",
+    "name": "Windflit",
+    "profession": "SUPPORT",
+    "skills": [
+      "此身为筑",
+      "此身为源"
+    ],
+    "rarity": 5,
+    "maxElite": 2,
+    "maxPotential": 6,
+    "cnOnly": true
   },
   {
     "id": "char_4045_heidi",
@@ -2655,7 +2888,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": true
   },
   {
     "id": "char_4019_ncdeer",
@@ -2667,7 +2901,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 1
+    "maxPotential": 1,
+    "cnOnly": true
   },
   {
     "id": "char_492_quercu",
@@ -2679,7 +2914,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": true
   },
   {
     "id": "char_4036_forcer",
@@ -2691,7 +2927,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": true
   },
   {
     "id": "char_4016_kazema",
@@ -2703,7 +2940,8 @@
     ],
     "rarity": 5,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": true
   },
   {
     "id": "char_300_phenxi",
@@ -2716,7 +2954,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": true
   },
   {
     "id": "char_377_gdglow",
@@ -2729,7 +2968,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": true
   },
   {
     "id": "char_206_gnosis",
@@ -2742,7 +2982,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": true
   },
   {
     "id": "char_2023_ling",
@@ -2755,7 +2996,8 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": true
   },
   {
     "id": "char_322_lmlee",
@@ -2768,7 +3010,36 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": true
+  },
+  {
+    "id": "char_1023_ghost2",
+    "name": "Specter the Unchained",
+    "profession": "SPECIAL",
+    "skills": [
+      "生存的技巧",
+      "生存的渴望",
+      "生存的重压"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6,
+    "cnOnly": true
+  },
+  {
+    "id": "char_4042_lumen",
+    "name": "Lumen",
+    "profession": "MEDIC",
+    "skills": [
+      "沐雨",
+      "沛霖",
+      "灯火不灭"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6,
+    "cnOnly": true
   },
   {
     "id": "char_4039_horn",
@@ -2781,6 +3052,21 @@
     ],
     "rarity": 6,
     "maxElite": 2,
-    "maxPotential": 6
+    "maxPotential": 6,
+    "cnOnly": true
+  },
+  {
+    "id": "char_4009_irene",
+    "name": "Irene",
+    "profession": "WARRIOR",
+    "skills": [
+      "起风",
+      "裂潮",
+      "判决"
+    ],
+    "rarity": 6,
+    "maxElite": 2,
+    "maxPotential": 6,
+    "cnOnly": true
   }
 ]

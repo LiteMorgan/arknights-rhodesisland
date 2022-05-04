@@ -1321,6 +1321,12 @@
       "rarity": 5
     },
     {
+      "id": "char_433_windft",
+      "name": "Windflit",
+      "profession": "SUPPORT",
+      "rarity": 5
+    },
+    {
       "id": "char_4045_heidi",
       "name": "Heidi",
       "profession": "SUPPORT",
@@ -1381,9 +1387,27 @@
       "rarity": 6
     },
     {
+      "id": "char_1023_ghost2",
+      "name": "Specter the Unchained",
+      "profession": "SPECIAL",
+      "rarity": 6
+    },
+    {
+      "id": "char_4042_lumen",
+      "name": "Lumen",
+      "profession": "MEDIC",
+      "rarity": 6
+    },
+    {
       "id": "char_4039_horn",
       "name": "Horn",
       "profession": "TANK",
+      "rarity": 6
+    },
+    {
+      "id": "char_4009_irene",
+      "name": "Irene",
+      "profession": "WARRIOR",
       "rarity": 6
     }
   ],
@@ -1395,6 +1419,7 @@
     "char_4040_rockr",
     "char_4025_aprot2",
     "char_422_aurora",
+    "char_433_windft",
     "char_4045_heidi",
     "char_4019_ncdeer",
     "char_492_quercu",
@@ -1405,7 +1430,10 @@
     "char_206_gnosis",
     "char_2023_ling",
     "char_322_lmlee",
-    "char_4039_horn"
+    "char_1023_ghost2",
+    "char_4042_lumen",
+    "char_4039_horn",
+    "char_4009_irene"
   ],
   "welfareOperators": [
     "char_220_grani",
