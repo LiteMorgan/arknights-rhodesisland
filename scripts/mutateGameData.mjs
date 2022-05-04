@@ -119,6 +119,7 @@ void (async () => {
         welfareOp,
         limitedOp,
         // phases,
+        rarity: character.rarity + 1,
         skills: skillData,
         maxElite: character.phases.length - 1,
         maxPotential: character.potentialRanks.length + 1,
@@ -146,7 +147,7 @@ void (async () => {
       name: character.name,
       profession: character.profession,
       skills: character.skills.map((skill) => skill.name),
-      rarity: character.rarity + 1,
+      rarity: character.rarity,
       maxElite: character.phases.length - 1,
       maxPotential: character.potentialRanks.length + 1,
     };
@@ -162,7 +163,7 @@ void (async () => {
       id: character.id,
       name: character.name,
       profession: character.profession,
-      rarity: character.rarity + 1,
+      rarity: character.rarity,
     };
   });
 
