@@ -4,3 +4,6 @@
 [submodule "scripts/AN-EN-Tags"]
 	path = scripts/AN-EN-Tags
 	url = https://github.com/Aceship/AN-EN-Tags
+[submodule "scripts/MayerBotPics"]
+	path = scripts/MayerBotPics
+	url = git@github.com:aelurum/MayerBotPics.git
