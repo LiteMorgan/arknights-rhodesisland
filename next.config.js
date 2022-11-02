@@ -1,6 +1,6 @@
 const path = require("path");
 
-module.exports = async (basePath, phase, { defaultConfig }) => {
+module.exports = async (basePath, phase) => {
   /**
    * @type {import('next').NextConfig}
    */
