@@ -1,9 +1,6 @@
 [submodule "scripts/ArknightsGameData"]
 	path = scripts/ArknightsGameData
 	url = https://github.com/Kengxxiao/ArknightsGameData
-[submodule "scripts/MayerBotPics"]
-	path = scripts/MayerBotPics
-	url = git@github.com:aelurum/MayerBotPics.git
 [submodule "scripts/Arknight-Images"]
 	path = scripts/Arknight-Images
 	url = https://github.com/Aceship/Arknight-Images
